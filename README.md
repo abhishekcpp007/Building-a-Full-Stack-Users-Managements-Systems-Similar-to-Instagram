@@ -1,22 +1,19 @@
-# Building-a-Full-Stack-Users-Managements-Systems-Similar-to-Instagram
-Building a Full-Stack Users Managements Systems Similar to Instagram
-
 # Building a Full-Stack Users Management System Similar to Instagram
 
-![Project Banner](project_banner.png)
+
 
 Welcome to our Full-Stack Users Management System project! This repository contains the source code for a web application similar to Instagram, where users can sign up, log in, share photos, follow other users, and interact with each other's content.
 
 ## Table of Contents
 
-- [Introduction]
-- [Features]
-- [Tech Stack]
-- [Getting Started]
-- [Installation]
-- [Usage]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Contributing](#contributing)
-- 
+- [License](#license)
 
 ## Introduction
 
@@ -78,4 +75,10 @@ We welcome contributions to improve and extend this project. If you find any bug
 4. Push to the branch: `git push origin feature/your-feature` or `git push origin bugfix/your-bug-fix`.
 5. Create a pull request explaining your changes and why they should be merged.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
+
+---
+
+Thank you for your interest in our project! If you have any questions or need further assistance, feel free to contact us. Happy coding!
