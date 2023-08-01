@@ -9,14 +9,14 @@ Welcome to our Full-Stack Users Management System project! This repository conta
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Introduction]
+- [Features]
+- [Tech Stack]
+- [Getting Started]
+- [Installation]
+- [Usage]
 - [Contributing](#contributing)
-- [License](#license)
+- 
 
 ## Introduction
 
